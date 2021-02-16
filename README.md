@@ -13,36 +13,56 @@ Estimate of time needed to complete: 60 min
 
 Start time: 2:50
 
-Finish time: _____
+Finish time: 4:00
 
-Actual time needed to complete: _____
+Actual time needed to complete: 70 min
 
 
 
 Number and name of feature: Filter images
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 60 min
 
-Start time: _____
+Start time: 4:30
 
-Finish time: _____
+Finish time: 5:15
 
-Actual time needed to complete: _____
+Actual time needed to complete: 45 min
 
 
 
 Number and name of feature: Style the application
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 60 min
 
-Start time: _____
+Start time: 6:00
 
-Finish time: _____
+Finish time: 7:00
 
-Actual time needed to complete: _____
+Actual time needed to complete: 60 min
+
+
+Number and name of feature: Pagination and Template
+
+Estimate of time needed to complete: 60 min
+
+Start time: 2:00
+
+Finish time: 2:30
+
+Actual time needed to complete: 70 min
 
 
 
+Number and name of feature: Styling & Sorting 
+
+Estimate of time needed to complete: 60 min
+
+Start time: 2:30
+
+Finish time: 3:20
+
+Actual time needed to complete: 50 min
 
 
 
